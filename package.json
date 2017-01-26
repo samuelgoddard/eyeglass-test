@@ -1,0 +1,17 @@
+{
+  "name": "eyeglass-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eyeglass": "^1.2.1"
+  },
+  "devDependencies": {
+    "eyeglass": "^1.2.1",
+    "mise-en-place.tools.rem-calc": "github:mise-en-place/tools.rem-calc",
+    "node-sass": "^4.3.0"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
